@@ -6,7 +6,7 @@
 <h3 align="left">📌 Github Stats</h3>
 <p align="left">
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=measmanet&show_icons=true&theme=graywhite"
+        src="https://github-readme-stats.vercel.app/api?username=dev-dexterr&show_icons=true&theme=graywhite"
     />
 </p>
 <h3 align="left">📌 Tech Stack</h3>
